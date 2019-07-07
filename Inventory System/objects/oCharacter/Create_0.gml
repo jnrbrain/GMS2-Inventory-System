@@ -1,0 +1,9 @@
+hspd=0;
+vspd=0;
+grv=1;
+walkspd=3;
+doublejump=1;
+window_set_size(1920,1080);
+display_set_gui_size(1920,1080);
+application_surface_draw_enable(true);
+application_surface_enable(true);
